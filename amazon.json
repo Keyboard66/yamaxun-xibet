@@ -1,7 +1,7 @@
 {
 	"data": {
 		"articleList": [],
-		"author": "",
+		"author": "vn",
 		"children": [],
 		"courseId": 60,
 		"cover": "",
@@ -13,7 +13,7 @@
 		"order": 190000,
 		"parentChapterId": 407,
 		"type": 0,
-		"userControlSetTop": false,
+		"userControlSetTop": true,
 		"xiaomi": false,
 		"vivo": false,
 		"sanxing": false,
